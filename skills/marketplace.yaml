@@ -210,15 +210,6 @@ items:
     githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/angular-tooling
     rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/angular-tooling/SKILL.md
     content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/angular-tooling.tar.gz
-  - id: find-skills
-    description: >-
-      Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X",
-      "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the
-      user is looking for functionality that might exist as an installable skill.
-    category: development
-    githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/find-skills
-    rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/find-skills/SKILL.md
-    content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/find-skills.tar.gz
   - id: frontend-design
     description: >-
       Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user
@@ -334,15 +325,6 @@ items:
     githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/webapp-testing
     rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/webapp-testing/SKILL.md
     content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/webapp-testing.tar.gz
-  - id: gemini-king-mode
-    description: >-
-      Frontend-focused instruction profile for producing bold, intentional UI output with concise default responses and
-      an ULTRATHINK deep-analysis mode. This skill should be used when the user asks for Gemini King Mode behavior,
-      avant-garde frontend direction, or ULTRATHINK-style exhaustive UI reasoning.
-    category: development
-    githubUrl: https://github.com/Kilo-Org/kilo-marketplace/tree/main/skills/gemini-king-mode
-    rawUrl: https://raw.githubusercontent.com/Kilo-Org/kilo-marketplace/main/skills/gemini-king-mode/SKILL.md
-    content: https://github.com/Kilo-Org/kilo-marketplace/releases/download/skills-latest/gemini-king-mode.tar.gz
   - id: file-organizer
     description: >-
       Intelligently organizes your files and folders across your computer by understanding context, finding duplicates,
